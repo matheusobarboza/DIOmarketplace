@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { View, Image } from 'react-native';
+import { View } from 'react-native';
 
 import FeatherIcons from 'react-native-vector-icons/Feather';
 
